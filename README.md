@@ -40,5 +40,5 @@
 
 ## 🔗 Links
 
-- GitHub: [GitHub Profile](https://github.com/본인아이디)
+- GitHub: [[GitHub Profile]](https://github.com/yujinonline)
 - Portfolio: 준비 중
