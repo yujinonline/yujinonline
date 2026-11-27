@@ -8,14 +8,15 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-- C#
-- Python
-- SQL
+**Languages:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-**Development**
-- Unity
-- Git / GitHub
+**Development:**
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -38,7 +39,6 @@
 
 ---
 
-## 🔗 Links
+## 🔗 Contact Me!
 
 - GitHub: [[GitHub Profile]](https://github.com/yujinonline)
-- Portfolio: 준비 중
